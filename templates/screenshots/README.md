@@ -5,7 +5,24 @@
 | 模板名 | 适用场景 | 版式特点 | 截图 | 来源 |
 | --- | --- | --- | --- | --- |
 
-目前暂无截图。
+| 蓝白组会文献汇报 | 文献组会、研究进展 | 蓝白标题栏、证据分栏和结论条 | [正文 11 页](#蓝白组会文献汇报) | 页眉标注「新业演示」 |
+
+## 蓝白组会文献汇报
+
+| 页面 | 排版参考 |
+| --- | --- |
+| [基本信息](blue-white-02-paper-information.png) | 文献题录和关键词在左，期刊封面大图在右，底部放一句结论。 |
+| [研究内容概述](blue-white-03-project-overview.png) | 页顶短文概括问题和方法，中部并排展示证据，下方用编号列出产出。 |
+| [基本信息与证据](blue-white-04-evidence-overview.png) | 左侧资料缩略图配短注，右侧用大幅证据图。 |
+| [研究背景](blue-white-05-research-background.png) | 总论点条下布置左右对照图与中间要点栏，底部横排辅助图。 |
+| [研究思路](blue-white-06-research-approach.png) | 上半部显示因果与流程，下半部列三条研究路径。 |
+| [方法与研究方向](blue-white-07-methods-and-directions.png) | 顶部放方法框架，下方用三等宽证据模块。 |
+| [研究结果一](blue-white-08-result-one.png) | 左侧堆叠小图和条目，右侧留大图组，底部归纳。 |
+| [研究结果二](blue-white-09-result-two.png) | 左宽右窄，两侧分别呈现证据，子图与说明对齐。 |
+| [研究结果三](blue-white-10-result-three.png) | 两侧呈现对照证据，中央窄栏解释机制，底部归纳。 |
+| [结论与讨论](blue-white-11-conclusions.png) | 上方一句主要结论，中间横排证据，底部三段短句。 |
+| [研究启发](blue-white-12-research-implications.png) | 并排展示两条启发，每栏配一组证据与编号要点。 |
+
 
 ## 收录方式
 
