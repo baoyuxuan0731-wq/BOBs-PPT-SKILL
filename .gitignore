@@ -15,3 +15,8 @@
 *.csv
 *.xlsx
 *.env
+
+# Public template references only.
+!/templates/screenshots/*.png
+!/templates/screenshots/*.jpg
+!/templates/screenshots/*.jpeg
