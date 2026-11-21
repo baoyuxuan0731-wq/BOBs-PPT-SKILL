@@ -1,0 +1,17 @@
+/private/
+/inputs/
+/outputs/
+/work/
+*.pdf
+*.docx
+*.pptx
+*.ppt
+*.html
+*.svg
+*.png
+*.jpg
+*.jpeg
+*.zip
+*.csv
+*.xlsx
+*.env
